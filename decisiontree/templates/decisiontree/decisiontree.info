@@ -1,0 +1,7 @@
+display name: Decision Tree
+description: Build a decision tree
+editor size: *
+preview size: *
+preview filename: preview.inc
+public filename: data.inc
+supports: 
